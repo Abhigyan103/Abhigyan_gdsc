@@ -11,7 +11,7 @@ To compile this code and run it yourself :
 - Copy the assets folder in your project directory
 - Replace /lib and pubspec.yaml file
 - Run the command : `pub get`
-- Run the command : `flutter flutter pub run flutter_launcher_icons`
+- Run the command : `flutter pub run flutter_launcher_icons`
 - Run the command : `dart run flutter_native_splash:create`
 - Now run the flutter app
 
